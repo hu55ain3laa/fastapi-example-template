@@ -1,0 +1,3 @@
+fastapi==0.111.0
+sqlmodel==0.0.18
+uvicorn==0.29.0
