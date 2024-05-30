@@ -1,6 +1,7 @@
 # Fastapi example with SQLModel
 
 This project created with Fastapi and SQLModel libraries
+you can use it as a reference for main endpoints and for learning purpose
 
 ## Get started
 
@@ -35,6 +36,8 @@ You can use this project as beginners ( learning purpose only ) template
 ```
 
 ## Acknowledgements
+
+Read the docs to get familiar with these libraries
 
 - [Fastapi docs](https://fastapi.tiangolo.com/)
 - [SQLModel docs](https://sqlmodel.tiangolo.com/)
