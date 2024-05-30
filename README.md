@@ -4,7 +4,7 @@ This project created with Fastapi and SQLModel libraries
 
 ## Get started
 
-You can use this project as beginners template
+You can use this project as beginners ( learning purpose only ) template
 
 - Install the requirements
 
